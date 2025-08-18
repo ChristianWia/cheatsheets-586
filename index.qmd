@@ -11,6 +11,8 @@ listing:
     - "lubridate.qmd"
     - "strings.qmd"
     - "package-development.qmd"
+    - "positron.qmd"
+    - "rstudio-ide.qmd"
     - "quarto.qmd"
     - "gt.qmd"
     - "great-tables.qmd"
@@ -23,9 +25,8 @@ listing:
     - "plumber.qmd"
     - "reticulate.qmd"
     - "sparklyr.qmd"
-    - "posit-team.qmd"
     - "rmarkdown.qmd"
-    - "rstudio-ide.qmd"
+    - "posit-team.qmd"
   type: grid
   image-height: "200px"
   sort: false
